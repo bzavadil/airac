@@ -2,6 +2,14 @@ body {
  font-family: 'Lato', sans-serif;
 }
 
-ls {
+li {
   list-style-type: none;
+}
+
+.blog-info {
+  text-align: center;
+  background-image: url("http://flightservicebureau.org/wp-content/uploads/2015/12/cropped-Airport-Sunrise-e1450477609902.jpg");
+  padding: 20px 0;
+  background: no-repeat center;
+
 }
