@@ -6,9 +6,23 @@ li {
   list-style-type: none;
 }
 
-.blog-info {
+#header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+  height: 100px;
+  width: 500px;
+  margin: 0 auto;
   text-align: center;
-  background-image: url("http://flightservicebureau.org/wp-content/uploads/2015/12/cropped-Airport-Sunrise-e1450477609902.jpg");
-  padding: 20px 0;
-  background: no-repeat center;
+}
+
+#header h1 {
+  color: white;
+  letter-spacing: 4px;
+  font-size: 1.73em;
+  font-weight 700;
+}
+
+#header p {
+  color: grey;
 }
